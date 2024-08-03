@@ -1,5 +1,4 @@
 import { ChangeEvent, useEffect, useState } from "react"
-import logo from "./assets/Logo.svg"
 import AddNoteDialog from "./components/AddNoteDialog"
 import NoteCard from "./components/NoteCard"
 import { toast } from "sonner"
